@@ -16,6 +16,6 @@ To run SunScribe on your local machine, follow these steps:
 3. **Install Dependencies**
    - Run `npm install` to install the required node modules.
 4. **Start the Metro Bundler**
-   - Execute `npx rstart` to start the Metro Bundler.
+   - Execute `npx expo start` to start the Metro Bundler.
 5. **Run the App on a Device using Expo Go**
    
